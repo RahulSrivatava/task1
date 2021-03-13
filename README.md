@@ -1,4 +1,4 @@
-# task1 Completd
+# task1 Completed
 ![image](https://user-images.githubusercontent.com/44645513/111023214-c6310d00-83fd-11eb-9cd8-d466fd0f38fa.png)
 ![image](https://user-images.githubusercontent.com/44645513/111023237-df39be00-83fd-11eb-98da-94f10764fff1.png)
 ![image](https://user-images.githubusercontent.com/44645513/111023244-eb258000-83fd-11eb-8ca2-ea5bae11cac0.png)
